@@ -1,0 +1,1 @@
+# typeorm-auto-seeding
