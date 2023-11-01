@@ -1,0 +1,46 @@
+{
+  "name": "typeorm-auto-seeding",
+  "version": "0.1.0",
+  "description": "Auto seeding for TypeORM",
+  "main": "index.js",
+  "author": {
+    "name": "Heechan Kim",
+    "email": "ways2kim@gmail.com"
+  },
+  "engines": {
+    "node": ">= 18.16.1"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "typeorm": "~0.3.17"
+  },
+  "dependencies": {
+    "pg": "^8.11.3",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "~0.3.17"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hee-c/typeorm-auto-seeding"
+  },
+  "bugs": {
+    "url": "https://github.com/hee-c/typeorm-auto-seeding/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "tags": [
+    "typeorm",
+    "orm",
+    "typescript",
+    "typescript-orm",
+    "seed",
+    "seeder",
+    "seeding",
+    "typeorm-seeding"
+  ]
+}
